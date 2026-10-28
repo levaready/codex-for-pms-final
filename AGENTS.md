@@ -107,3 +107,7 @@ as verified current status.
 - Code penalizes misses like declines (−0.12; acceptance +0.08), with no automatic recovery; capability is a soft ranking input. Confirm production safeguards with Wen.
 - Handler accounts support disappearing offers followed by quiet stretches; full segment results are in `00-rook/feedback/acceptance-breakdown.md`.
 - Next: obtain delivery/display/response times and ranking snapshots; separate timeout, delivery and penalty effects. Location freshness, capability enforcement and annual seasonality remain unverified.
+
+- Risk to monitor: aggregate acceptance can recover as struggling responders receive fewer offers; track opportunity distribution alongside assignment outcomes.
+- Cross-product question: does reduced callout activity influence the availability record used by Supply? A maintenance/readiness feedback loop is a hypothesis, not an established effect.
+- Research gap: operational problems surfaced incidentally in console interviews; use specific incident walkthroughs and seek evidence contrary to the favored explanation.
