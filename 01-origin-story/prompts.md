@@ -24,6 +24,46 @@ prompt library built from your own questions.
 
 ### 1.
 
+how is the location of the responder verse the callouts determined and tracked?
+
 ### 2.
 
+what question should i be asking that i am not to get better idea of the problem and potential solution
+
 ### 3.
+
+When acceptance fell, did responders become less willing to take callouts—or less able to answer before the offer expired?
+
+### 4.
+
+1. **Are incidents actually getting worse outcomes?**\
+   Are more callouts going unfilled, taking longer to assign, or reaching responders farther away? Acceptance per ping could fall while incident assignment improves.
+
+### 5.
+
+**Who experienced the decline, and when?**\
+Break it down by responder, area, time of day and incident type, before and after 12 August. Is it widespread or concentrated?
+
+### 6.
+
+**What changed about the offers people receive?**\
+Are responders getting closer, more suitable callouts? Are the location, availability and capability inputs accurate when ranking happens?
+
+### 7.
+
+**Does the shorter timeout create a feedback loop?**\
+Could a responder miss an offer after 60 seconds, lose ranking priority, and receive fewer subsequent offers? How many responders does that affect?
+
+### 8.
+
+**What do handlers and responders say happened in specific cases?**\
+Ask them to walk through an actual missed or declined ping. “Why didn’t you take this one?” is more useful than “Do you like the new routing?”
+
+### 9.
+
+**What evidence would distinguish the possible fixes?**\
+For each explanation—timeout, routing, stale location, delivery or seasonality—identify a measurable prediction and a small test, with engineering.
+
+### 10.
+
+lets synthesis the data from the questions above and identify patterns that would help determine the problems
