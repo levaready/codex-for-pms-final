@@ -111,3 +111,10 @@ as verified current status.
 - Risk to monitor: aggregate acceptance can recover as struggling responders receive fewer offers; track opportunity distribution alongside assignment outcomes.
 - Cross-product question: does reduced callout activity influence the availability record used by Supply? A maintenance/readiness feedback loop is a hypothesis, not an established effect.
 - Research gap: operational problems surfaced incidentally in console interviews; use specific incident walkthroughs and seek evidence contrary to the favored explanation.
+
+- Module 2 synthesis: all 147 support tickets reviewed; 30 concern quiet stretches and 16 disappearing offers. Counts include follow-ups, not unique incidents or customers.
+- Excluding 12 August itself, those two themes rose from 1/40 tickets (29 June–11 August) to 44/105 (13 August–7 September); filing dates do not establish causality.
+- Interviews: 3/4 mention disappearing offers (Halloran calls his an observation), 2/4 quiet stretches, 2/4 small text. Quiet-stretch interview examples are Vesper/Meteor Mite; tickets concern Farlight/Undertow/Ashgrove/Halfmoon.
+- For those four ticket-reporting responders, release-week misses rose before subsequent weekly offers declined; Farlight offers fell 10→3→1→0 and Undertow 11→4→1→1 from weeks starting 10 August through 31 August. Release week straddles deployment.
+- Actual rank changes cannot be verified: database lacks historical candidate lists, eligibility, travel times and scores. A miss reduces total routing score by up to 0.03 in supplied 4.2 code, but may not change position; verify production behavior with Wen.
+- Interviews emphasize context and usability; tickets expose repetition and escalation. Halloran's improved maintenance experience coexists with eight maintenance tickets; saved filters attract both praise and operational complaints.
