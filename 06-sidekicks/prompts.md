@@ -15,6 +15,8 @@ prompt library built from your own questions.
 
 ### 1.
 
+Use review-checklist on 05-super-speed/brief.md.
+
 ### 2.
 
 ### 3.
