@@ -141,3 +141,8 @@ as verified current status.
 - Module 6: created `.agents/skills/review-checklist/SKILL.md` to review ownership, success, scope consistency, problem-first reasoning and early detection.
 - Reviewing `05-super-speed/brief.md` and its engineering acceptance criteria found consistent recovery-only scope and clear problem-first framing; Helen is named as recipient, but the accountable brief/outcome owner is missing.
 - Success and early detection need clarification before launch: finalize baseline, target, comparison method, sample requirements and reliable measurement sources; explicitly assign alert monitoring and define triggers, including missing-data signals. The review did not edit the brief or authorize launch.
+
+- Final report: `final-report.html` is a standalone nine-slide presentation pairing one finding or artifact per module with an exact student prompt, source links, and the embedded Module 5 prototype.
+- The report distinguishes observed post-4.2 deterioration from unproven causes and connects the recovery-only pilot to the review skill’s unresolved launch gates. No new production evidence was collected.
+- Student feedback prompted actual Demon Slayer–inspired anime artwork on the cover and six module slides; images are embedded in the HTML, with source assets and generation prompts in `assets/final-report/`.
+- Exact prompt matching, source links, embedded prototype preservation and JavaScript syntax were checked. Generated artwork was inspected, but browser restrictions prevented rendered presentation verification.
