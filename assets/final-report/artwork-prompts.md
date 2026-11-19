@@ -1,0 +1,11 @@
+# Final report artwork
+
+Generated with the built-in image-generation tool. Illustrative anime scenes, not evidence or product UI.
+
+## Quiet signal
+
+Use case: illustration-story. Create a cinematic Demon Slayer anime inspired illustration for a presentation about emergency responders whose callout offers went quiet. Actual expressive hand-drawn anime character art, polished cel shading, bold ink outlines, atmospheric painted background. Wide landscape 3:2 composition. A young adult swordsman in green-and-black checkered haori, tousled dark auburn hair, expressive serious eyes, a sheathed katana, looking down at a small glowing communication talisman in his hand whose turquoise light is dissolving into a few particles. Character occupies right half, waist-up, face clearly visible. Moonlit Japanese forest with dark teal mist and subtle wisteria on left, one elegant curved water-breathing ribbon near lower edge. Strong readable silhouette. Restrained dark forest green, aqua, pale moonlight, small crimson accent. Quiet, thoughtful emotional tone, not combat. No text, numbers, diagrams, logos, watermark, gore, or busy effects. Keep character large and unmistakably anime, beautiful poster-quality framing.
+
+## Recovery signal
+
+Use case: illustration-story. A beautiful Demon Slayer inspired anime illustration, wide landscape 3:2, actual detailed cel-shaded anime characters with bold expressive eyes and ink outlines, atmospheric Japanese painted background. The same kind of young adult swordsman hero with tousled dark auburn hair and a green-and-black checkered haori stands with an adult woman ally in a subtle violet haori beneath a wisteria tree at dawn. Hero holds a bright aqua communication talisman, restored signal represented by one clean circular water-breathing arc around his hand; ally studies it thoughtfully. Sheathed swords, no combat. Both characters waist-up, expressive faces, calm determined feeling of renewed opportunity and careful teamwork, ample dark negative space near edges. Palette dark teal, aquamarine, violet blossoms, restrained warm sunrise highlights. Premium anime key visual, clear composition, not busy. No typography, captions, numbers, logos, watermark, graphs or gore.
